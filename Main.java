@@ -28,7 +28,7 @@ public class Main {
 
             }
             else {
-                System.out.println("Tā ir lieliska iespēja uzzīnāt visu info sīkāk!");
+                System.out.println("Tā ir lielliska iespēja uzzīnāt visu info sīkāk!");
             }
         }
     }
